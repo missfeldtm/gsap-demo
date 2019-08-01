@@ -1,0 +1,30 @@
+body, html {
+    height: 100%;;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
+
+.square1{
+  
+    position: absolute;
+    transform: rotate(-33deg);
+    bottom: -50%;
+    right:-44%;
+    background-color:#222;
+    width:2000px;
+    height:800px;
+
+}
+
+#events{
+  visibility: hidden;
+  float:right;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+ 
+} 
